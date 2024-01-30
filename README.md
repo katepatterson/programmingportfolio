@@ -6,7 +6,6 @@
 
 ## Space Game
 OOP graphics games spotlighting objects for user interaction that includes sound and animation
-![Spacegame Menu](
-)
+![Spacegame Menu]()
 ![Spacegame Gameplay]()
-![Spacegame GmaeOver]()
+![Spacegame GameOver]()
