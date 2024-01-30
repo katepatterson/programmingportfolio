@@ -1,1 +1,1 @@
-# programmingportfolio
+# Kate Patterson | Programming Portfolio
