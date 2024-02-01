@@ -14,5 +14,5 @@ https://github.com/katepatterson/programmingportfolio/blob/main/src/SpaceGame%20
 ![EtchASketch Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/EtchSketchPlay.png)
 https://github.com/katepatterson/programmingportfolio/blob/main/src/EtchASketch.pde 
 
-![Calculator Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/EtchSketchPlay.png)
+![Calculator Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/Calculator.png)
 https://github.com/katepatterson/programmingportfolio/blob/main/src/CalculatorFinal.zip
