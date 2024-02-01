@@ -10,4 +10,5 @@ OOP graphics games spotlighting objects for user interaction that includes sound
 ![Spacegame Gameplay](https://github.com/katepatterson/programmingportfolio/blob/main/images/SpaceGamePlay.png?raw=true)
 ![Spacegame GameOver](https://github.com/katepatterson/programmingportfolio/blob/main/images/SpaceGameEnd.png?raw=true)
 
+![EtchASketch Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/EtchSketchPlay.png)
 https://github.com/katepatterson/programmingportfolio/blob/main/src/EtchASketch.pde 
