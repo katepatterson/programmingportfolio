@@ -16,3 +16,5 @@ https://github.com/katepatterson/programmingportfolio/blob/main/src/EtchASketch.
 
 ![Calculator Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/Calculator.png)
 https://github.com/katepatterson/programmingportfolio/blob/main/src/CalculatorFinal.zip
+
+![ScreenSaver Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/ScreenSaver.png)
