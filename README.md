@@ -11,11 +11,11 @@ OOP graphics games spotlighting objects for user interaction that includes sound
 ![Spacegame GameOver](https://github.com/katepatterson/programmingportfolio/blob/main/images/SpaceGameEnd.png?raw=true)
 [Source Code](https://github.com/katepatterson/programmingportfolio/blob/main/src/SpaceGame%205.zip)
 
-![EtchASketch Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/EtchSketchPlay.png)
+![EtchASketch Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/EtchSketchPlay.png?raw=true)
 [Source Code](https://github.com/katepatterson/programmingportfolio/blob/main/src/EtchASketch.pde)
 
-![Calculator Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/Calculator.png)
+![Calculator Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/Calculator.png?raw=true)
 [Source Code](https://github.com/katepatterson/programmingportfolio/blob/main/src/CalculatorFinal.zip)
 
-![ScreenSaver Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/ScreenSaver.png)
+![ScreenSaver Main](https://github.com/katepatterson/programmingportfolio/blob/main/images/ScreenSaver.png?raw=true)
 [Source Code](https://github.com/katepatterson/programmingportfolio/blob/main/src/ScreenSaver.pde)
