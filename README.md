@@ -1,9 +1,10 @@
 # Kate Patterson | Programming Portfolio
 
+## Individual Projects
+https://github.com/katepatterson/IndividualProject
+
 ## Group Project
  Bunny Break: https://github.com/9606841/BunnyPrisonGame
-
-## Individual Projects
 
 ## Space Game
 OOP graphics games spotlighting objects for user interaction that includes sound and animation
