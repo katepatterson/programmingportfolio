@@ -1,6 +1,7 @@
 # Kate Patterson | Programming Portfolio
 
 ## Group Project
+ Bunny Break: https://github.com/9606841/BunnyPrisonGame
 
 ## Individual Projects
 
