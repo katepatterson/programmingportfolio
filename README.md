@@ -1,7 +1,7 @@
 # Kate Patterson | Programming Portfolio
 
 ## Individual Projects
-Build-A-Monster: https://github.com/katepatterson/IndividualProject
+MadLibs Clone: https://github.com/katepatterson/IndividualProject
 
 ## Group Project
 Bunny Break: https://github.com/9606841/BunnyPrisonGame
