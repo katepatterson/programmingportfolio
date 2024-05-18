@@ -1,5 +1,8 @@
 # Programming Portfolio | Kate Patterson | 9720806@graniteschool.org
 
+## Certifications
+
+
 ## Individual Projects
 MadLibs Clone: https://github.com/katepatterson/IndividualProject
 
